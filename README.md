@@ -1,5 +1,5 @@
 # 🧠 Brain Tumor Detection (Binary Classification)
-```
+
 ## 📌 Project Overview  
 This project builds a **Convolutional Neural Network (CNN)** model to detect whether a brain MRI image contains a **tumor** or **no tumor**.  
 The dataset is taken from [Kaggle – Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).  
