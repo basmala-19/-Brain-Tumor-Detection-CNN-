@@ -8,7 +8,6 @@ The task is simplified into a **binary classification**:
 - **0 → No Tumor**  
 - **1 → Tumor (Glioma, Meningioma, Pituitary)**  
 
----
 ```
 ```
 ## 📂 Dataset Structure  
