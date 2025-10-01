@@ -10,6 +10,7 @@ The task is simplified into a **binary classification**:
 
 ---
 ```
+```
 ## 📂 Dataset Structure  
 The dataset is divided into **Training** and **Testing** sets with 4 categories:  
 ```
